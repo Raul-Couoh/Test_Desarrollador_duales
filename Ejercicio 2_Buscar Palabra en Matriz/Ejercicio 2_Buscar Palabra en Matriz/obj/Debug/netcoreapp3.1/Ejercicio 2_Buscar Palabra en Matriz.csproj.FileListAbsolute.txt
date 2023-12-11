@@ -1,0 +1,14 @@
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\bin\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.exe
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\bin\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.deps.json
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\bin\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.runtimeconfig.json
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\bin\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.runtimeconfig.dev.json
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\bin\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.dll
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\bin\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.pdb
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\obj\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.csproj.AssemblyReference.cache
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\obj\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\obj\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.AssemblyInfoInputs.cache
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\obj\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.AssemblyInfo.cs
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\obj\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\obj\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.dll
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\obj\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.pdb
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 2_Buscar Palabra en Matriz\Ejercicio 2_Buscar Palabra en Matriz\obj\Debug\netcoreapp3.1\Ejercicio 2_Buscar Palabra en Matriz.genruntimeconfig.cache

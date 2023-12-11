@@ -1,0 +1,14 @@
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\bin\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.exe
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\bin\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.deps.json
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\bin\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.runtimeconfig.json
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\bin\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.runtimeconfig.dev.json
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\bin\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.dll
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\bin\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.pdb
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\obj\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.csproj.AssemblyReference.cache
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\obj\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\obj\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.AssemblyInfoInputs.cache
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\obj\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.AssemblyInfo.cs
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\obj\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\obj\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.dll
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\obj\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.pdb
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 1_Subconjuntos de una Lista\Ejercicio 1_Subconjuntos de una Lista\obj\Debug\netcoreapp3.1\Ejercicio 1_Subconjuntos de una Lista.genruntimeconfig.cache

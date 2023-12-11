@@ -1,0 +1,14 @@
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\bin\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.exe
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\bin\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.deps.json
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\bin\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.runtimeconfig.json
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\bin\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.runtimeconfig.dev.json
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\bin\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.dll
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\bin\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.pdb
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\obj\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.csproj.AssemblyReference.cache
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\obj\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\obj\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.AssemblyInfoInputs.cache
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\obj\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.AssemblyInfo.cs
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\obj\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\obj\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.dll
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\obj\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.pdb
+C:\Users\ariel\Desktop\Test_Desarrollador_duales\Ejercicio 3_Comprimir Cadena\Ejercicio 3_Comprimir Cadena\obj\Debug\netcoreapp3.1\Ejercicio 3_Comprimir Cadena.genruntimeconfig.cache

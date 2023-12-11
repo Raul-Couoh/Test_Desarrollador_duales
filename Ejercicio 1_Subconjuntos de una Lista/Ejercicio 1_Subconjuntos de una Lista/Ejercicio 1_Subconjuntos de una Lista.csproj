@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Ejercicio_1_Subconjuntos_de_una_Lista</RootNamespace>
+  </PropertyGroup>
+
+</Project>
